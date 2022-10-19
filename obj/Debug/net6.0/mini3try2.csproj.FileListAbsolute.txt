@@ -1,0 +1,30 @@
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini3try2\bin\Debug\net6.0\mini3try2.exe
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini3try2\bin\Debug\net6.0\mini3try2.deps.json
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini3try2\bin\Debug\net6.0\mini3try2.runtimeconfig.json
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini3try2\bin\Debug\net6.0\mini3try2.dll
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini3try2\bin\Debug\net6.0\mini3try2.pdb
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini3try2\obj\Debug\net6.0\mini3try2.csproj.AssemblyReference.cache
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini3try2\obj\Debug\net6.0\mini3try2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini3try2\obj\Debug\net6.0\mini3try2.AssemblyInfoInputs.cache
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini3try2\obj\Debug\net6.0\mini3try2.AssemblyInfo.cs
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini3try2\obj\Debug\net6.0\mini3try2.csproj.CoreCompileInputs.cache
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini3try2\obj\Debug\net6.0\mini3try2.dll
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini3try2\obj\Debug\net6.0\refint\mini3try2.dll
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini3try2\obj\Debug\net6.0\mini3try2.pdb
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini3try2\obj\Debug\net6.0\mini3try2.genruntimeconfig.cache
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini3try2\obj\Debug\net6.0\ref\mini3try2.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini3Git\bin\Debug\net6.0\mini3try2.exe
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini3Git\bin\Debug\net6.0\mini3try2.deps.json
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini3Git\bin\Debug\net6.0\mini3try2.runtimeconfig.json
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini3Git\bin\Debug\net6.0\mini3try2.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini3Git\bin\Debug\net6.0\mini3try2.pdb
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini3Git\obj\Debug\net6.0\mini3try2.csproj.AssemblyReference.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini3Git\obj\Debug\net6.0\mini3try2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini3Git\obj\Debug\net6.0\mini3try2.AssemblyInfoInputs.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini3Git\obj\Debug\net6.0\mini3try2.AssemblyInfo.cs
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini3Git\obj\Debug\net6.0\mini3try2.csproj.CoreCompileInputs.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini3Git\obj\Debug\net6.0\mini3try2.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini3Git\obj\Debug\net6.0\refint\mini3try2.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini3Git\obj\Debug\net6.0\mini3try2.pdb
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini3Git\obj\Debug\net6.0\mini3try2.genruntimeconfig.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini3Git\obj\Debug\net6.0\ref\mini3try2.dll
